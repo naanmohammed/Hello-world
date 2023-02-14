@@ -37,14 +37,11 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -142,8 +139,6 @@ Feel free to check the [issues page](https://github.com/naanmohammed/Hello-world
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, please star it and send me a message on LinkedIn.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -151,8 +146,6 @@ If you like this project, please star it and send me a message on LinkedIn.
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Mahdi(github.com/Abdelaziz-Ali) and Asiimwe Mark (github.com/As1imwe-Mark) for their support in the project.
 
