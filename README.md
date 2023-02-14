@@ -50,31 +50,25 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[Hello Microverse]** is a Hello World project designed to test knowledge about concepts studied on Day 1 and 2 of Module 1's first block
+**Hello Microverse** is a Hello World project designed to test knowledge about concepts studied on Day 1 and 2 of Module 1's first block.
 
-## 🛠 Built With <a name="built-with">HTML and CSS</a>
+## 🛠 Built With <a name="built-with"></a> HTML and CSS
 
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
+### Tech Stack <a name="tech-stack"></a> HTML and CSS
 
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Displays 'Hello Microverse' ]**
+- **Displays 'Hello Microverse' **
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -85,8 +79,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -96,23 +88,16 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:naanmohammed/Hello_world.git
-```
---->
+    - Clone this repository to your desired folder.
+            -cd my-folder
+            -git clone git@github.com:naanmohammed/Hello_world.git
 
 ### Install
 
 Install this project with:
 
     -No installation required.
-    -Double Click to open it if you have a browser installed.(Google Chrome recommended)
+    -Double click index.html to open it if you have a browser installed.(Google Chrome recommended)
 
 ### Usage
 
@@ -126,8 +111,6 @@ To run the project :
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Naan Mohammed**
 
 - GitHub: [@naanmohammed](https://github.com/naanmohammed)
@@ -140,9 +123,7 @@ To run the project :
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[Add Javascript to greet visitors according to the time of the day]**
+- [ ] **Add Javascript to greet visitors according to the time of the day**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -173,7 +154,7 @@ If you like this project, please star it and send me a message on LinkedIn.
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank Mahdi(@Abdelaziz-Ali) and Asiimwe Mark (@As1imwe-Mark) for their support in the project.
+I would like to thank Mahdi(github.com/Abdelaziz-Ali) and Asiimwe Mark (github.com/As1imwe-Mark) for their support in the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -184,6 +165,5 @@ I would like to thank Mahdi(@Abdelaziz-Ali) and Asiimwe Mark (@As1imwe-Mark) for
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
